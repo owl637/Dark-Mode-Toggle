@@ -27,4 +27,4 @@
 このプライバシーポリシーは、将来的に変更される可能性があります。変更があった場合は、GitHubリポジトリ上で通知します。
 
 ## 5. お問い合わせ
-本拡張機能に関するお問い合わせは、GitHub の [Issues](https://github.com/あなたのユーザー名/リポジトリ名/issues) までお願いいたします。
+本拡張機能に関するお問い合わせは、GitHub の [Issues](https://github.com/owl637/Dark-Mode-Toggle/issues) までお願いいたします。
